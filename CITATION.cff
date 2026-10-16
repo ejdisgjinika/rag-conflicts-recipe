@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper when using these experiments."
+title: "Contextual Knowledge Conflicts in RAG Systems with a Recipe Dataset"
+type: software
+authors:
+  - family-names: Gjinika
+    given-names: Ejdis
+  - family-names: Putelli
+    given-names: Luca
+  - family-names: Chiari
+    given-names: Mattia
+  - family-names: Pagani
+    given-names: Alessandro
+  - family-names: Serina
+    given-names: Ivan
+  - family-names: Gerevini
+    given-names: Alfonso Emilio
+repository-code: "https://github.com/ejdisgjinika/rag-conflicts-recipe"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Contextual Knowledge Conflicts in RAG Systems with a Recipe Dataset"
+  authors:
+    - family-names: Gjinika
+      given-names: Ejdis
+    - family-names: Putelli
+      given-names: Luca
+    - family-names: Chiari
+      given-names: Mattia
+    - family-names: Pagani
+      given-names: Alessandro
+    - family-names: Serina
+      given-names: Ivan
+    - family-names: Gerevini
+      given-names: Alfonso Emilio
+  year: 2027
+  doi: "10.1007/978-3-032-40774-0_24"
+  collection-title: "AIxIA 2026 – Advances in Artificial Intelligence"
+  collection-type: proceedings
+  volume: "17131"
+  publisher:
+    name: Springer
+    city: Cham
+  editors:
+    - family-names: Bistarelli
+      given-names: S.
+    - family-names: Maratea
+      given-names: M.
+    - family-names: Santini
+      given-names: F.
